@@ -1,16 +1,79 @@
-# React + Vite
+# 🚀 Jotish React Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A complete React.js application built as part of the Jotish technical assignment.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Project Overview
 
-## React Compiler
+This application includes:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🔐 Login Authentication
+- 📡 API Data Fetch (POST Request using Axios)
+- 📋 Employee List Page
+- 👤 Employee Details Page
+- 📸 Webcam Photo Capture
+- 📊 Salary Bar Chart (Chart.js)
+- 🗺 Employee Location Map (React Leaflet)
+- 🖼 Photo Result Page
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- React.js
+- React Router DOM
+- Axios
+- Chart.js
+- React ChartJS 2
+- React Leaflet
+- Leaflet
+- Vite
+
+---
+
+## 📷 Screenshots
+
+### 🔐 Login Page
+![Login](screenshots/loginpage.png)
+
+---
+
+### 📋 Employee List
+![List](screenshots/listPage.png)
+
+---
+
+### 📊 Salary Chart
+![Chart](screenshots/chart.png)
+
+---
+
+### 🗺 Map View
+![Map](screenshots/Map.png)
+
+---
+
+### 👤 Employee Details + Webcam
+![Details](screenshots/EmpDetails.png)
+
+---
+
+### 📸 Captured Photo Page
+![Photo](screenshots/webCam.png)
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/jotish-react-assignment.git
+
+⭐ API Used 
+##POST method
+https://backend.jotish.in/backend_dev/gettabledata.php
+
+
+
