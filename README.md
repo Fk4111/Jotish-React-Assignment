@@ -75,5 +75,6 @@ git clone https://github.com/yourusername/jotish-react-assignment.git
 ##POST method
 https://backend.jotish.in/backend_dev/gettabledata.php
 
-  
+⭐ Deployed Link
+https://jotishreactassignment.netlify.app/
 
